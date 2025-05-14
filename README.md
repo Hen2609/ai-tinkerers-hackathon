@@ -1,0 +1,4 @@
+- the citadel ai agent agent is pasted here.
+- the diagram agent is here [llamindex memrmaid chart agent](https://github.com/barakmo/hackathon-graph-agent)
+- the mcp server is [here](https://github.com/barakmo/citadel-hackathon-mcp)
+- the nesstjs server is [here](https://github.com/barakmo/citadel-hackathon)
